@@ -1,0 +1,618 @@
+[
+  {
+    "Year": 2020,
+    "Overall Record": "4-1",
+    "Conference Record": "4-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 2019,
+    "Overall Record": "12-2",
+    "Conference Record": "7-1",
+    "Postseason": "Sugar Bowl",
+    "Result": "W, Baylor 26-14"
+  },
+  {
+    "Year": 2018,
+    "Overall Record": "11-3",
+    "Conference Record": "7-1",
+    "Postseason": "Sugar Bowl",
+    "Result": "L, Texas 28-21"
+  },
+  {
+    "Year": 2017,
+    "Overall Record": "13-2",
+    "Conference Record": "7-1",
+    "Postseason": "Rose Bowl, CFP",
+    "Result": "W, Oklahoma 54-48 (2OT); L, Alabama, CFP Champ. 26-23 (OT)"
+  },
+  {
+    "Year": 2016,
+    "Overall Record": "8-5",
+    "Conference Record": "4-4",
+    "Postseason": "Liberty Bowl",
+    "Result": "W, TCU 31-23"
+  },
+  {
+    "Year": 2015,
+    "Overall Record": "10-3",
+    "Conference Record": "5-3",
+    "Postseason": "TaxSlayer Bowl",
+    "Result": "W, Penn State 24-17"
+  },
+  {
+    "Year": 2014,
+    "Overall Record": "10-3",
+    "Conference Record": "6-2",
+    "Postseason": "Belk Bowl",
+    "Result": "W, Louisville 37-14"
+  },
+  {
+    "Year": 2013,
+    "Overall Record": "8-5",
+    "Conference Record": "5-3",
+    "Postseason": "Gator Bowl",
+    "Result": "L, Nebraska 24-19"
+  },
+  {
+    "Year": 2012,
+    "Overall Record": "12-2",
+    "Conference Record": "7-1",
+    "Postseason": "Capital One Bowl",
+    "Result": "W, Nebraska 45-31"
+  },
+  {
+    "Year": 2011,
+    "Overall Record": "10-4",
+    "Conference Record": "7-1",
+    "Postseason": "Outback Bowl",
+    "Result": "L, Michigan State 33-30 (3OT)"
+  },
+  {
+    "Year": 2010,
+    "Overall Record": "6-7",
+    "Conference Record": "3-5",
+    "Postseason": "Liberty Bowl",
+    "Result": "L, Central Florida 10-6"
+  },
+  {
+    "Year": 2009,
+    "Overall Record": "8-5",
+    "Conference Record": "4-4",
+    "Postseason": "Independence Bowl",
+    "Result": "W, Texas A&M 44-20"
+  },
+  {
+    "Year": 2008,
+    "Overall Record": "10-3",
+    "Conference Record": "6-2",
+    "Postseason": "Capital One Bowl",
+    "Result": "W, Michigan State 24-12"
+  },
+  {
+    "Year": 2007,
+    "Overall Record": "11-2",
+    "Conference Record": "6-2",
+    "Postseason": "Sugar Bowl",
+    "Result": "W, Hawaii 41-10"
+  },
+  {
+    "Year": 2006,
+    "Overall Record": "9-4",
+    "Conference Record": "4-4",
+    "Postseason": "Chick-fil-A Bowl",
+    "Result": "W, Virginia Tech 31-24"
+  },
+  {
+    "Year": 2005,
+    "Overall Record": "10-3",
+    "Conference Record": "6-2",
+    "Postseason": "Sugar Bowl",
+    "Result": "L, West Virginia 38-35"
+  },
+  {
+    "Year": 2004,
+    "Overall Record": "10-2",
+    "Conference Record": "6-2",
+    "Postseason": "Outback Bowl",
+    "Result": "W, Wisconsin 24-21"
+  },
+  {
+    "Year": 2003,
+    "Overall Record": "11-3",
+    "Conference Record": "6-2",
+    "Postseason": "Capital One Bowl",
+    "Result": "W, Purdue 34-27 (OT)"
+  },
+  {
+    "Year": 2002,
+    "Overall Record": "13-1",
+    "Conference Record": "7-1",
+    "Postseason": "Sugar Bowl",
+    "Result": "W, Florida State 26-13"
+  },
+  {
+    "Year": 2001,
+    "Overall Record": "8-4",
+    "Conference Record": "5-3",
+    "Postseason": "Music City Bowl",
+    "Result": "L. Boston College 20-16"
+  },
+  {
+    "Year": 2000,
+    "Overall Record": "8-4",
+    "Conference Record": "5-3",
+    "Postseason": "Oahu Classic",
+    "Result": "W, Virginia 37-14"
+  },
+  {
+    "Year": 1999,
+    "Overall Record": "8-4",
+    "Conference Record": "5-3",
+    "Postseason": "Outback Bowl",
+    "Result": "W, Purdue 28-25"
+  },
+  {
+    "Year": 1998,
+    "Overall Record": "9-3",
+    "Conference Record": "6-2",
+    "Postseason": "Peach Bowl",
+    "Result": "W, Virginia 35-33"
+  },
+  {
+    "Year": 1997,
+    "Overall Record": "10-2",
+    "Conference Record": "6-2",
+    "Postseason": "Outback Bowl",
+    "Result": "W, Wisconsin 33-6"
+  },
+  {
+    "Year": 1996,
+    "Overall Record": "5-6",
+    "Conference Record": "3-5",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1995,
+    "Overall Record": "6-6",
+    "Conference Record": "3-5",
+    "Postseason": "Peach Bowl",
+    "Result": "L, Virginia 34-27"
+  },
+  {
+    "Year": 1994,
+    "Overall Record": "6-4-1",
+    "Conference Record": "3-4-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1993,
+    "Overall Record": "5-6",
+    "Conference Record": "2-6",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1992,
+    "Overall Record": "10-2",
+    "Conference Record": "6-2",
+    "Postseason": "Citrus Bowl",
+    "Result": "W, Ohio State 21-14"
+  },
+  {
+    "Year": 1991,
+    "Overall Record": "9-3",
+    "Conference Record": "4-3",
+    "Postseason": "Independence Bowl",
+    "Result": "W, Arkansas 24-15"
+  },
+  {
+    "Year": 1990,
+    "Overall Record": "4-7",
+    "Conference Record": "2-5",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1989,
+    "Overall Record": "6-6",
+    "Conference Record": "4-3",
+    "Postseason": "Peach Bowl",
+    "Result": "L, Syracuse 19-18"
+  },
+  {
+    "Year": 1988,
+    "Overall Record": "9-3",
+    "Conference Record": "5-2",
+    "Postseason": "Gator Bowl",
+    "Result": "W, Michigan State 34-27"
+  },
+  {
+    "Year": 1987,
+    "Overall Record": "9-3",
+    "Conference Record": "4-2",
+    "Postseason": "Liberty Bowl",
+    "Result": "W, Arkansas 20-17"
+  },
+  {
+    "Year": 1986,
+    "Overall Record": "8-4",
+    "Conference Record": "4-2",
+    "Postseason": "Hall of Fame Bowl",
+    "Result": "L, Boston College 27-24"
+  },
+  {
+    "Year": 1985,
+    "Overall Record": "7-3-2",
+    "Conference Record": "3-2-1",
+    "Postseason": "Sun Bowl",
+    "Result": "T, Arizona 13-13"
+  },
+  {
+    "Year": 1984,
+    "Overall Record": "7-4-1",
+    "Conference Record": "4-2",
+    "Postseason": "Citrus Bowl",
+    "Result": "T, Florida State 17-17"
+  },
+  {
+    "Year": 1983,
+    "Overall Record": "10-1-1",
+    "Conference Record": "5-1",
+    "Postseason": "Cotton Bowl",
+    "Result": "W, Texas 10-9"
+  },
+  {
+    "Year": 1982,
+    "Overall Record": "11-1",
+    "Conference Record": "6-0",
+    "Postseason": "Sugar Bowl",
+    "Result": "L, Penn State 27-23"
+  },
+  {
+    "Year": 1981,
+    "Overall Record": "10-2",
+    "Conference Record": "6-0",
+    "Postseason": "Sugar Bowl",
+    "Result": "L, Pittsburgh 24-20"
+  },
+  {
+    "Year": 1980,
+    "Overall Record": "12-0",
+    "Conference Record": "6-0",
+    "Postseason": "Sugar Bowl",
+    "Result": "W, Notre Dame 17-10"
+  },
+  {
+    "Year": 1979,
+    "Overall Record": "6-5",
+    "Conference Record": "5-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1978,
+    "Overall Record": "9-2-1",
+    "Conference Record": "5-0-1",
+    "Postseason": "Bluebonnet Bowl",
+    "Result": "L, Stanford 25-22"
+  },
+  {
+    "Year": 1977,
+    "Overall Record": "5-6",
+    "Conference Record": "2-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1976,
+    "Overall Record": "10-2",
+    "Conference Record": "5-1",
+    "Postseason": "Sugar Bowl",
+    "Result": "L, Pittsburhgh 27-3"
+  },
+  {
+    "Year": 1975,
+    "Overall Record": "9-3",
+    "Conference Record": "5-1",
+    "Postseason": "Cotton Bowl",
+    "Result": "L, Arkansas 31-10"
+  },
+  {
+    "Year": 1974,
+    "Overall Record": "6-6",
+    "Conference Record": "4-2",
+    "Postseason": "Tangerine Bowl",
+    "Result": "L, Miami, Ohio 21-10"
+  },
+  {
+    "Year": 1973,
+    "Overall Record": "7-4-1",
+    "Conference Record": "3-4",
+    "Postseason": "Peach Bowl",
+    "Result": "W, Maryland 17-16"
+  },
+  {
+    "Year": 1972,
+    "Overall Record": "7-4",
+    "Conference Record": "4-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1971,
+    "Overall Record": "11-1",
+    "Conference Record": "5-1",
+    "Postseason": "Gator Bowl",
+    "Result": "W, North Carolina 7-3"
+  },
+  {
+    "Year": 1970,
+    "Overall Record": "5-5",
+    "Conference Record": "3-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1969,
+    "Overall Record": "5-5-1",
+    "Conference Record": "2-3-1",
+    "Postseason": "Sun Bowl",
+    "Result": "L, Nebraska 45-6"
+  },
+  {
+    "Year": 1968,
+    "Overall Record": "8-1-2",
+    "Conference Record": "5-0-1",
+    "Postseason": "Sugar Bowl",
+    "Result": "L, Arkansas 16-2"
+  },
+  {
+    "Year": 1967,
+    "Overall Record": "7-4",
+    "Conference Record": "4-2",
+    "Postseason": "Liberty Bowl",
+    "Result": "L, N.C. State 14-7"
+  },
+  {
+    "Year": 1966,
+    "Overall Record": "10-1",
+    "Conference Record": "5-0",
+    "Postseason": "Cotton Bowl",
+    "Result": "W, SMU 24-9"
+  },
+  {
+    "Year": 1965,
+    "Overall Record": "6-4",
+    "Conference Record": "2-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1964,
+    "Overall Record": "7-3-1",
+    "Conference Record": "3-2",
+    "Postseason": "Sun Bowl",
+    "Result": "W, Texas Tech 7-0"
+  },
+  {
+    "Year": 1963,
+    "Overall Record": "4-5-1",
+    "Conference Record": "2-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1962,
+    "Overall Record": "3-4-3",
+    "Conference Record": "2-2-2",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1961,
+    "Overall Record": "3-7",
+    "Conference Record": "3-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1960,
+    "Overall Record": "6-4",
+    "Conference Record": "4-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1959,
+    "Overall Record": "10-1",
+    "Conference Record": "7-0",
+    "Postseason": "Orange Bowl",
+    "Result": "W, Missouri 14-0"
+  },
+  {
+    "Year": 1958,
+    "Overall Record": "4-6",
+    "Conference Record": "2-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1957,
+    "Overall Record": "3-7",
+    "Conference Record": "3-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1956,
+    "Overall Record": "3-6-1",
+    "Conference Record": "1-6",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1955,
+    "Overall Record": "4-6",
+    "Conference Record": "2-5",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1954,
+    "Overall Record": "6-3-1",
+    "Conference Record": "3-2-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1953,
+    "Overall Record": "3-8",
+    "Conference Record": "1-5",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1952,
+    "Overall Record": "7-4",
+    "Conference Record": "4-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1951,
+    "Overall Record": "5-5",
+    "Conference Record": "2-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1950,
+    "Overall Record": "6-3-3",
+    "Conference Record": "3-2-1",
+    "Postseason": "Presidential Cup",
+    "Result": "L, Texas A&M 40-20"
+  },
+  {
+    "Year": 1949,
+    "Overall Record": "4-6-1",
+    "Conference Record": "1-4-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1948,
+    "Overall Record": "9-2",
+    "Conference Record": "6-0",
+    "Postseason": "Orange Bowl",
+    "Result": "L, Texas 41-28"
+  },
+  {
+    "Year": 1947,
+    "Overall Record": "7-4-1",
+    "Conference Record": "3-3",
+    "Postseason": "Gator Bowl",
+    "Result": "T, Maryland 20-20"
+  },
+  {
+    "Year": 1946,
+    "Overall Record": "11-0",
+    "Conference Record": "5-0",
+    "Postseason": "Sugar Bowl",
+    "Result": "W, North Carolina 20-10"
+  },
+  {
+    "Year": 1945,
+    "Overall Record": "9-2",
+    "Conference Record": "4-2",
+    "Postseason": "Oil Bowl",
+    "Result": "W, Tulsa 20-6"
+  },
+  {
+    "Year": 1944,
+    "Overall Record": "7-3",
+    "Conference Record": "4-2",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1943,
+    "Overall Record": "6-4",
+    "Conference Record": "0-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1942,
+    "Overall Record": "11-1",
+    "Conference Record": "6-1",
+    "Postseason": "Rose Bowl",
+    "Result": "W, UCLA 9-0"
+  },
+  {
+    "Year": 1941,
+    "Overall Record": "9-1-1",
+    "Conference Record": "3-1-1",
+    "Postseason": "Orange Bowl",
+    "Result": "W, TCU 40-26"
+  },
+  {
+    "Year": 1940,
+    "Overall Record": "5-4-1",
+    "Conference Record": "2-3-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1939,
+    "Overall Record": "5-6",
+    "Conference Record": "1-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1938,
+    "Overall Record": "5-4-1",
+    "Conference Record": "1-2-1",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1937,
+    "Overall Record": "6-3-2",
+    "Conference Record": "1-2-2",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1936,
+    "Overall Record": "5-4-1",
+    "Conference Record": "3-3",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1935,
+    "Overall Record": "6-4",
+    "Conference Record": "2-4",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1934,
+    "Overall Record": "7-3",
+    "Conference Record": "3-2",
+    "Postseason": "",
+    "Result": ""
+  },
+  {
+    "Year": 1933,
+    "Overall Record": "8-2",
+    "Conference Record": "3-1",
+    "Postseason": "",
+    "Result": ""
+  }
+]
